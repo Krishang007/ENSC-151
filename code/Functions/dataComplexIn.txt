@@ -1,0 +1,10 @@
+Toronto 12.35 48.92
+Vancouver 33.14 27.58
+Calgary 41.77 19.66
+Montreal 25.84 52.10
+Edmonton 18.42 37.95
+Winnipeg 29.63 14.27
+Halifax 44.29 31.88
+Ottawa 21.74 46.55
+Regina 37.12 22.40
+QuebecCity 15.94 39.71
